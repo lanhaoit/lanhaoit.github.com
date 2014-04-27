@@ -1,5 +1,10 @@
-关于学习探讨	{#welcome}
-=====================
+---
+layout: post
+title: "关于学习的想法"
+description: ""
+category: think
+tags: []
+--- 
 ### 目录文件：
 
 [TOC]
