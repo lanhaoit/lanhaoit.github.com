@@ -1,6 +1,6 @@
 ---
 layout: post
-tile: "设计模式-简单工厂模式"
+title: "设计模式-简单工厂模式"
 description: ""
 category: program
 tags: [设计模式]
