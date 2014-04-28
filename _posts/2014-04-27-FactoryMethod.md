@@ -2,7 +2,7 @@
 layout: post
 title: "设计模式-工厂方法”
 description: ""
-category: "program"
+category: program
 tags: [设计模式]
 ---
 

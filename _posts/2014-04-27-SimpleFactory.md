@@ -2,7 +2,7 @@
 layout: post
 tile: "设计模式-简单工厂模式"
 description: ""
-category: "program"
+category: program
 tags: [设计模式]
 ---
 
@@ -21,6 +21,8 @@ ConcreteProduct：具体的产品角色。
 
 ### 问题
 简单工厂模式由于使用了静态工厂方法，造成工厂角色无法形成基于继承的等级结构。
+等级结构：梨有北方的/南方的
+抽像工厂可以解决这种算法族的问题
 
 ### 补充
 封闭原则：加入新功能的时候不要修改之前的代码
